@@ -1,0 +1,48 @@
+{  
+   "name":"WebAutomationData",
+   "description":"Data for Web Automation Tests",
+   "data":{
+	   "AutomationExampleTest":{
+		   "titleTest":{
+			   "expected":"Test Login | Practice Test Automation"
+		   },
+		   "validLoginTest":{
+			   "value":["student", "Password123"],
+			   "expected": "Logged In Successfully"
+		   },
+		   "invalidUserTest":{
+			   "value":["stud", "Password123"],
+			   "expected": "Your username is invalid!"
+		   },
+		   "invalidPasswordTest":{
+			   "value":["student", "Password"],
+			   "expected": "Your password is invalid!"
+		   }
+	   },
+	   "RedeemVoucherTest":{
+		   "titleTest":{
+			   "expected":"MAF | Redeem Voucher"
+		   },
+		   "validVoucherCodeRedeemTest":{
+			   "value":["VALID", "+971", "9876543210", "123456"],
+			   "expected": "Voucher Redeemed Successfully"
+		   },
+		   "invalidVoucherCodeTest":{
+			   "value":["INVALID"],
+			   "expected": "Invalid Voucher Code"
+		   },
+		   "invalidCountryCodeTest":{
+			   "value":["VALID", "+91", "9876543210"],
+			   "expected": "Invalid Country Code for the above voucher"
+		   },
+		   "invalidMobileNumberTest":{
+			   "value":["VALID", "+971", "12345"],
+			   "expected": "Invalid Mobile number. Please enter a valid mobile number to receive an OTP"
+		   },
+		   "wrongOtpTest":{
+			   "value":["VALID", "+971", "9876543210", "000000"],
+			   "expected": "The OTP you have entered is incorrect. Please try again."
+		   }
+	   }
+   }
+}
