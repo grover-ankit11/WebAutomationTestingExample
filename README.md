@@ -24,7 +24,7 @@
 * Only valid OTP is "123456"
 * Successful verification will show a Toast/Alert, while unsuccessful verification will show the error message on the same page
 * Mobile number field and its corresponding "Submit" button is only displayed after user has entered a valid/invalid Voucher code and clicked on first "Submit" button
-* OPT field and it's corresponding "Verify & Continue" button is only displayed after user has entered a valid/invalid phone number and clicked on the second "Submit" button
+* OTP field, and it's corresponding "Verify & Continue" button is only displayed after user has entered a valid/invalid phone number and clicked on the second "Submit" button
 * Alert contains the following elements:
   * Message: "Voucher Redeemed Successfully"
   * Button: "Ok"
@@ -37,7 +37,7 @@
   * Invalid Mobile Number
   * Invalid OTP 
 
-> The code contains an extra test class called "AutomationExampleTest". This was created to validate the working on models and utility classes against actual pages and elements as part of the assignment only a dummy flow was given
+> The code contains an extra test class called "AutomationExampleTest". These tests were created to validate the working of models and utility classes against actual pages and elements. As part of the assignment only a dummy flow was given with no actual website, that's why I had to rely on this testing website to validate my changes
 
 ## How to run
 * Run `mvn test` on terminal
