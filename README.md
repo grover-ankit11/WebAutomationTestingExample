@@ -40,4 +40,5 @@
 > The code contains an extra test class called "AutomationExampleTest". These tests were created to validate the working of models and utility classes against actual pages and elements. As part of the assignment only a dummy flow was given with no actual website, that's why I had to rely on this testing website to validate my changes
 
 ## How to run
-* Run `mvn test` on terminal
+* Run `mvn compile` on terminal to compile the code
+* Run `mvn test` on terminal to run the tests

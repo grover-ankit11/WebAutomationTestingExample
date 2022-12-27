@@ -1,0 +1,35 @@
+2022-12-26 00:15:06,099 - com.qa.application.testcases.AutomationExampleTest -INFO - Report initiated and got config data 
+2022-12-26 00:15:16,775 - com.qa.application.testcases.AutomationExampleTest -INFO - Browser Ready
+2022-12-26 00:15:16,848 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating Title of the Screen
+2022-12-26 00:15:16,897 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with valid username and invalid password
+2022-12-26 00:15:17,982 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with invalid username and valid password
+2022-12-26 00:15:18,658 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with valid username and password
+2022-12-26 00:15:20,806 - com.qa.application.testcases.AutomationExampleTest -INFO - Report created
+2022-12-26 00:33:01,377 - com.qa.application.testcases.AutomationExampleTest -INFO - Report initiated and got config data 
+2022-12-26 00:33:12,514 - com.qa.application.testcases.AutomationExampleTest -INFO - Browser Ready
+2022-12-26 00:33:12,623 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating Title of the Screen
+2022-12-26 00:33:12,672 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with valid username and invalid password
+2022-12-26 00:33:13,882 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with invalid username and valid password
+2022-12-26 00:33:14,595 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with valid username and password
+2022-12-26 00:33:18,240 - com.qa.application.testcases.AutomationExampleTest -INFO - Report created
+2022-12-26 00:51:34,842 - com.qa.application.testcases.AutomationExampleTest -INFO - Report initiated and got config data 
+2022-12-26 00:51:43,541 - com.qa.application.testcases.AutomationExampleTest -INFO - Browser Ready
+2022-12-26 00:51:43,634 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating Title of the Screen
+2022-12-26 00:51:43,701 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with valid username and invalid password
+2022-12-26 00:51:45,052 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with invalid username and valid password
+2022-12-26 00:51:45,750 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with valid username and password
+2022-12-26 00:51:48,043 - com.qa.application.testcases.AutomationExampleTest -INFO - Report created
+2022-12-26 21:43:13,277 - com.qa.application.testcases.AutomationExampleTest -INFO - Report initiated and got config data 
+2022-12-26 21:43:34,253 - com.qa.application.testcases.AutomationExampleTest -INFO - Browser Ready
+2022-12-26 21:43:34,351 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating Title of the Screen
+2022-12-26 21:43:35,047 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with valid username and invalid password
+2022-12-26 21:43:35,744 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with invalid username and valid password
+2022-12-26 21:43:36,501 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with valid username and password
+2022-12-26 21:43:37,926 - com.qa.application.testcases.AutomationExampleTest -INFO - Report created
+2022-12-26 21:44:11,064 - com.qa.application.testcases.AutomationExampleTest -INFO - Report initiated and got config data 
+2022-12-26 21:44:22,113 - com.qa.application.testcases.AutomationExampleTest -INFO - Browser Ready
+2022-12-26 21:44:22,236 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating Title of the Screen
+2022-12-26 21:44:22,305 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with valid username and invalid password
+2022-12-26 21:44:23,920 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with invalid username and valid password
+2022-12-26 21:44:24,768 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with valid username and password
+2022-12-26 21:44:27,518 - com.qa.application.testcases.AutomationExampleTest -INFO - Report created
